@@ -20,7 +20,7 @@ Omogućiti godišnju, sezonsku statistiku, ostvareni prihod te prosječnu popunj
 
 
 ## Zadatak
-U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje.
+https://github.com/foivz/pi22-zadace-npeterman112/blob/master/Zadatak%20-%20kampovi.pdf
 
 ## Resursi
 Github Markdown sintaksa dostupna je na [ovom linku](https://guides.github.com/features/mastering-markdown/) ali i na Moodleu u sekciji Zadaće.
