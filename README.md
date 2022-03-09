@@ -1,6 +1,5 @@
 # Naslov
  Softver za rezervaciju smještaja u kampu
-(u redak iznad navedite naziv projekta kojeg ste dobili za analizu)
 
 ## Podaci o studentu
 
