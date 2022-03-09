@@ -1,28 +1,23 @@
-# Inicijalne upute za izradu zadaća
-Poštovane kolegice i kolege, 
-
-čestitamo vam jer ste uspješno kreirali **repozitorij** koji ćete koristiti za pišanje vaših zadaća, što će uključivati izradu dokumentacije ali i programskog koda.
-
-Molim vas izmijenite ovaj dokument kako bi u njega naveli naziv i kratak opisa projekta koji obrađujete u vašim zadaćama, kao i vaše osobne podatke. Za upute o sintaksi koju možete koristiti u ovom dokumentu i kod pisanje vaše projektne dokumentacije pogledajte [ovaj link](https://guides.github.com/features/mastering-markdown/) ali i upute o sintaksi koji će uskoro biti dostupan na Moodle-u. 
-
-A sada, vrijeme je da malo izmijenite ovaj dokument. Za upis/opis vašeg programskog proizvoda molimo vas koristite **predložak** koji je naveden u nastavku, a započnite tako da kliknete na *olovku* u desnom gornjem kutu ovoga dokumenta, te izbrišite sve što je iznad Naziva projekta, kao i sve upute koje su navedene u zagradama u predlošku ispod :) 
-
-# Naziv projekta
+# Naslov
+ Softver za rezervaciju smještaja u kampu
 (u redak iznad navedite naziv projekta kojeg ste dobili za analizu)
 
 ## Podaci o studentu
-(ispod promijenite samo drugi redak tablice)
 
 Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
-Ime i prezime | mojaadresa@foi.hr | 000000000 | githubuser
-
+Nikola Peterman | npeterman@foi.hr | 0016137228  | npeterman112
 
 ## Opis domene
-Umjesto ovih uputa vlastitim riječima opišite domenu ili problem koji pokriva projekt za vaše zadaće. 
+Problem: napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog privatnosti mogu pristupiti samo vlasnici a cijena se formira zavisno o sezoni te vrsti smještaja i količini osoba, te ponovni gosti dobivaju 5% popusta. Vlasnicima treba omogućiti izmjenu podataka poput cijene, kapaciteta, etc., te na kraju im treba i statistika za tijek godine/sezone te uvid u ukupni popis gostiju, te trenutnu popunjenost kampa. 
 
 ## Specifikacija projekta
-Umjesto ovih uputa vlastitim riječima opišite zahtjeve za funkcionalnošću programskog proizvoda.
+Login za vlasnike
+Unos gostiju
+Mogućnost izmjene ponude
+Omogućeno pretraživanje prema popunjenosti, terminu i potrebnom kapacitetu
+Omogućiti godišnju, sezonsku statistiku, ostvareni prihod te prosječnu popunjenost.
+
 
 ## Zadatak
 U root repozitorija učitajte zadatak koji ste dobili i potom ovdje stavite link na njegovo otvaranje.
