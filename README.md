@@ -25,6 +25,11 @@ Odrasli        |  60  |     40      |
 Djeca 5-12 godina|  30  |   20       |
 Djeca 0-4 godine|  0     |     0     |
 
+##### Izračun cijene
+
+Izračun cijene ovisi o kombinaciji vrste smještaja, vremenskome razdoblju, te broju gostiju.
+U slučaju kamp prikolice ili šatora cijena se definira zbrajanjem cijene smještaja  i cijene po gostu, a u slučaju odabira mobilne kućice plaća se samo cijena smještaja neovisno o broju gostiju, uz napomenu da je maksimalan broj gostiju 6. Ako je gost već koristio usluge kampa, ukupna cijena se smanjuje za 5%.
+
 ## Specifikacija projekta
 Login za vlasnike
 Unos gostiju
