@@ -6,6 +6,10 @@ Ime i prezime | E-mail adresa (FOI) | JMBAG | Github korisničko ime
 ------------  | ------------------- | ----- | ---------------------
 Nikola Peterman | npeterman@foi.hr | 0016137228  | npeterman112
 
+## Svrha
+
+Svrha ovog dokumenta je specifikacicja softverskih zahtjeva softvera namjenjenog rezervaciji smještajnih jedinica. Te dokument je namjenjen programerima, dizajnerima i testerima za navođenje u izradi i testiranju softvera. Isto tako dokument se koristi i kao ugovor između naručitelja i izvršivaća rada.
+
 ## Opis domene
 Problem: napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog privatnosti mogu pristupiti samo vlasnici a cijena se formira zavisno o sezoni te vrsti smještaja i količini osoba, te ponovni gosti dobivaju 5% popusta. Vlasnicima treba omogućiti izmjenu podataka poput cijene i kapaciteta, te oogućiti im izradu statistika za tijek godine/sezone te uvid u ukupni popis gostiju i trenutnu popunjenost kampa. 
 
