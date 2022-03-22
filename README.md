@@ -12,19 +12,12 @@ Problem: napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog p
 ##### Cjenik smještajnih jedinica(kn/dan)
  Sezona|izvan sezone|
 Vrsta smještaja |      |            |
-----------------|------|------------|
 Kamp prikolica  | 150  |     80     |
-----------------|------|------------|
 Šator          |  50   |     35     |
-----------------|-----|-------------|
 Mobilna kućica  | 900 |      500    |
-----------------|----|--------------|
 Gost            |     |             |
----------------|------|--------------|
 Odrasli        |  60  |     40      |
----------------|------|--------------|
 Djeca 5-12 godina|  30  |   20       |
-----------------|--------|-----------|
 Djeca 0-4 godine|  0     |     0     |
 
 ## Specifikacija projekta
