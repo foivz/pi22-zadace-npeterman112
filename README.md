@@ -10,8 +10,7 @@ Nikola Peterman | npeterman@foi.hr | 0016137228  | npeterman112
 Problem: napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog privatnosti mogu pristupiti samo vlasnici a cijena se formira zavisno o sezoni te vrsti smještaja i količini osoba, te ponovni gosti dobivaju 5% popusta. Vlasnicima treba omogućiti izmjenu podataka poput cijene i kapaciteta, te oogućiti im izradu statistika za tijek godine/sezone te uvid u ukupni popis gostiju i trenutnu popunjenost kampa. 
 
 ##### Cjenik smještajnih jedinica(kn/dan)
-                |Sezona|izvan sezone|
-----------------|------|------------|
+ Sezona|izvan sezone|
 Vrsta smještaja |      |            |
 ----------------|------|------------|
 Kamp prikolica  | 150  |     80     |
