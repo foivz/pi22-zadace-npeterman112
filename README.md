@@ -1,5 +1,4 @@
-# Naslov
- Softver za rezervaciju smještaja u kampu
+# Softver za rezervaciju smještaja u kampu
 
 ## Podaci o studentu
 
