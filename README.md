@@ -58,6 +58,7 @@ A baza podataka bi trebala biti centralizirana, zbog potrebe dijeljenja podataka
 ## Funkcije proizvoda
 
 Od softvera Kampiranje očekuje se :
+
  -Ograničavanje pristuba zbog privatnosti podataka.
  -Izračun cijene.
  -Promjenjiv cjenik.
