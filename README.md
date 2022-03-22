@@ -11,6 +11,7 @@ Problem: napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog p
 
 ##### Cjenik smještajnih jedinica(kn/dan)
  Sezona|izvan sezone|
+ ---------------|------|-------------|
 Vrsta smještaja |      |            |
 Kamp prikolica  | 150  |     80     |
 Šator          |  50   |     35     |
