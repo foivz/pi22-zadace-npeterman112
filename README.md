@@ -68,7 +68,85 @@ Od softvera Kampiranje očekuje se :
  
  
 ## Karakteristike korisnika
-Korisnici Kampiranja su zaposlenici u kampu, što znači da postoji jedna korisnička uloga, a
+Korisnici Kampiranja su zaposlenici u kampu, što znači da postoji jedna korisnička uloga, a zbog snošenja odgovornosti, svaki zaposlenik će imati svoje podatke za prijavu.
+
+## Ograničenja
+
+Softver radi sa privatnim podacima korisnika kampa.
+
+## Pretpostavke i ovisnosti
+Cjenik je podložan promjenama, te se očekuje da promjene cjenika prate promjene potražnje i ekonomske situacije.
+
+## Ostalo
+
+Nema potrebe za dodatnm objašnjavanjem
+
+
+## 3. Specifični funkcionalni zahtjevi
+
+Identifikator|FZ-1|
+-------------|----|
+Zahtjev|Sustav omogućuje pristup samo autenficiranim korisnicima|
+Obrazloženje|Zbog rada sa osjetljivim privatnim podacima gostiju, pristup podacima treba biti ograničen na zaposlenike.|
+Način provjere|U slučaju upisa ispravnik korisničkih podataka sustav dopušta pristup podatcima, a u slučaju upisa pogrešnih korisničkih podataka izbacuje opomenu te ne dozvoljava pristup podatcima|
+Prioritet[1-5]|1|
+Izvor|"Korisnički zahtjevi"|
+
+Identifikator|FZ-2|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-3|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-4|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-5|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-6|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-7|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
+
+Identifikator|FZ-8|
+-------------|----|
+Obrazloženje||
+Zahtjev||
+Način provjere||
+Prioritet[1-5]||
+Izvor||
 
 
 ## Specifikacija projekta
