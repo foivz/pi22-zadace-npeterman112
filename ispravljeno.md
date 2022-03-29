@@ -33,7 +33,7 @@ U slučaju kamp prikolice ili šatora cijena se definira zbrajanjem cijene smje�
 
 ## Definicije, akronimi i skraćenice
 
--
+- sezona : vremensko razdoblje od 1. lipnja do 30. kolovoza.
 
 ## Reference
 https://github.com/foivz/pi22-zadace-npeterman112/blob/master/Zadatak%20-%20kampovi.pdf
@@ -53,7 +53,7 @@ U petom poglavlju vizualno prikazujemo aplikaciju te njenu interakciju sa korisn
 
 Kampiranje je zamišljen kao softversko rješenje koje bi olakšalo poslovanje u kampu, fokusirajući se na rezervacije.
 Nije predviđena interakcija sa drugim sustavima, a softversko rješenje će se izvoditi na računalu krajnjeg korisnika.
-A baza podataka bi trebala biti centralizirana, zbog potrebe dijeljenja podataka između zaposlenika.
+A baza podataka bi trebala biti centralizirana, zbog potrebe dijeljenja podataka između vlasnika.
 
 ## Funkcije proizvoda
 
@@ -69,7 +69,7 @@ Od softvera Kampiranje očekuje se :
  
  
 ## Karakteristike korisnika
-Korisnici Kampiranja su zaposlenici u kampu, što znači da postoji jedna korisnička uloga, a zbog snošenja odgovornosti, svaki zaposlenik će imati svoje podatke za prijavu.
+Korisnici Kampiranja su vlasnici u kampu, što znači da postoji jedna korisnička uloga, a zbog snošenja odgovornosti, svaki vlasnik će imati svoje podatke za prijavu.
 
 ## Ograničenja
 
@@ -88,74 +88,106 @@ Nema potrebe za dodatnm objašnjavanjem
 Identifikator|FZ-1|
 -------------|----|
 Zahtjev|Sustav omogućuje pristup samo autenficiranim korisnicima|
-Obrazloženje|Zbog rada sa osjetljivim privatnim podacima gostiju, pristup podacima treba biti ograničen na zaposlenike.|
-Način provjere|U slučaju upisa ispravnik korisničkih podataka sustav dopušta pristup podatcima, a u slučaju upisa pogrešnih korisničkih podataka izbacuje opomenu te ne dozvoljava pristup podatcima|
+Obrazloženje|Zbog rada sa osjetljivim privatnim podacima gostiju, pristup podacima treba biti ograničen na vlasnike.|
+Način provjere|U slučaju upisa ispravnih korisničkih podataka sustav dopušta pristup podatcima, a u slučaju upisa pogrešnih korisničkih podataka izbacuje opomenu te ne dozvoljava pristup podatcima|
 Prioritet[1-5]|1|
 Izvor|"Korisnički zahtjevi"|
 
 Identifikator|FZ-2|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti unos podataka o smještaju |
+Obrazloženje| Vlasnici žele imati omogućen unos podataka o smještaju zbog razloga kao što je proširenje poslovanja na nove smještajne jedinice. |
+Način provjere| Nakon unosa podatci trebaju biti vidljivi na listi, moguća provjera uz pomoć FZ-6 |
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-3|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti izmjenu podataka o smještaju |
+Obrazloženje| Zbog mogućih proširenja kampa, kvarova u kamp kućicama ili drugih razloga, vlasnici moraju biti u mogućnosti mjenjati podatke o vrsti i kapacitetu te broju smještajnih jedinica. |
+Način provjere| Ako se podatak o smještaju promjeni ili izbriše, promjena treba biti vidljiva na listi ili pomoću FZ-6. |
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-4|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti obračun cijene |
+Obrazloženje| Obračun cijene je važna stavka za naplatu usluge. |
+Način provjere| Sustav ispisuje točnu cijenu nakon rezervacije smještaja pomoću testnih podataka.|
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-5|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti unost podataka o gostima |
+Obrazloženje| Za rezervaciju potrebno je unijeti podatke o gostima. |
+Način provjere| Nakon unosa testni podatci su vidljivi na listi ili uz pomoć FZ-8. |
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-6|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti pretraživanje smještajnih jedinica |
+Obrazloženje| Zbog rezerviranja, te kontorle stanja kampa, vlasnicima treba biti omogućeno pretraživanje slobodnih jedinica prema željenom kapacitetu i vremenskom periodu. Uz to je omogućen uvid u zauzete jedinice. |
+Način provjere| Nakon unosa testnih podataka vidljivo je koje su jedinice ostale slobodne a koje su zauzete. |
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-7|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti uvid u statistiku smještajnih jedinica |
+Obrazloženje| Zbog praćenja rada kampa, te pojedinih smještajnih jedinica. |
+Način provjere| Sustav treba prikazati izvještaj, kao što je ostvareni prihod, iz testnih podataka.|
+Prioritet[1-5]| 3 |
+Izvor| "Korisnički zahtjevi" |
 
 Identifikator|FZ-8|
 -------------|----|
-Obrazloženje||
-Zahtjev||
-Način provjere||
-Prioritet[1-5]||
-Izvor||
+Zahtjev| Sustav će omogućiti uvid u popis svih gostiju kampa |
+Obrazloženje| Zbog sigurnosnih razloga potreban je uvid u trenutan popis gostiju kampa, a popis pokazuje u kojoj jedinici smještaja se gost nalazi. |
+Način provjere| Sustav prikazuje popis testnih podataka. |
+Prioritet[1-5]| 2 |
+Izvor| "Korisnički zahtjevi" |
+
+## Dinamika realizacije zahtjeva
+
+ - FZ-1 -Sustav će omogućiti pristup samo autenficiranim korisnicima.
+ - FZ-2 -Sustav će omogućiti unos podataka o smještaju.
+ - FZ-3 -Sustav će omogućiti izmjenu podataka o smještaju.
+ - FZ-4 -Sustav će omogućiti obračun cijene.
+ - FZ-6 -Sustav će omogućiti pretraživanje smještajnih jedinica.
+ - FZ-5 -Sustav će omogućiti unost podataka o gostima.
+ - FZ-8 -Sustav će omogućiti uvid u popis svih gostiju kampa.
+ - FZ-7 -Sustav će omogućiti uvid u statistiku smještajnih jedinica.
+
+## 4. Nefunkcionalni zahtjevi
+
+## Izgled softvera
+ - NFZ-1 -Sustav će interakciju s korisnikom provoditi preko grafičkog sučelja.
+
+## Upotrebljivost softvera
+ - NFZ-2 -Sustav će ponuditi mehanizme za smanjenje mogućnosti grešaka prilikom unosa podataka.
+
+## Performanse softvera
+- NFZ-3 -Sustav će osigurati preciznost za decimalne brojeve na razini 2 decimalna mjesta.
+- NFZ-4 -Sustav će biti dostupan 24 sata na dan 365 dana u godini.
+- NFZ-5 -Sustav će osigurati mogućnost simultanog korištenja minimalno 4 korisnika.
+
+## Izvođenje softvera i okruženje
+- NFZ-6 -Sustav treba raditi na računalima sa instaliranim Windows 7 ili novijim operacijskim sustavima.
+
+## Sigurnost i privatnost
+- NFZ-7 -Sustav će samo vlasnicima omogućuje pristup podacima.
+- NFZ-8 -Sustav će upotrebljavati podatke o gostima u skladu s odredbama GDPR-a
+
+## Ostalo
+- Nema definiranih dodatnih nefunkcionalnih zahtjeva
 
 
-## Specifikacija projekta
-Login za vlasnike
-Unos gostiju
-Mogućnost izmjene ponude
-Omogućeno pretraživanje prema popunjenosti, terminu i potrebnom kapacitetu
-Omogućiti godišnju, sezonsku statistiku, ostvareni prihod te prosječnu popunjenost.
+##5. SKice zaslona
+
+## Skica zaslona za prijavu u sustav
+/LOG in.PNG
 
 
 ## Zadatak
