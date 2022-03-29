@@ -187,7 +187,8 @@ Izvor| "Korisnički zahtjevi" |
 ##5. SKice zaslona
 
 ## Skica zaslona za prijavu u sustav
-LOG in.png
+
+![LOG in](https://user-images.githubusercontent.com/100710176/160623105-8a4b5dd0-3f12-4add-b0fd-57fd1a2351ba.PNG)
 
 
 
