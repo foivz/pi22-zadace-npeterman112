@@ -59,13 +59,13 @@ A baza podataka bi trebala biti centralizirana, zbog potrebe dijeljenja podataka
 
 Od softvera Kampiranje očekuje se :
 
-  -Ograničavanje pristupa zbog privatnosti podataka.
-  -Izračun cijene.
-  -Promjenjiv cjenik.
-  -Pretraživanje slobodnih smještajnih jedinica ovisno o datumu.
-  -Pretraživanje slobodnih smještajnih jedinica ovisno o slobodnom kapacitetu.
-  -Uvid u statistiku različitih vrsta smještajnih jedinica.
-  -Prikaz trenutno slobodnih/zauzetih smještajnih jedinica.
+  - Ograničavanje pristupa zbog privatnosti podataka.
+  - Izračun cijene.
+  - Promjenjiv cjenik.
+  - Pretraživanje slobodnih smještajnih jedinica ovisno o datumu.
+  - Pretraživanje slobodnih smještajnih jedinica ovisno o slobodnom kapacitetu.
+  - Uvid u statistiku različitih vrsta smještajnih jedinica.
+  - Prikaz trenutno slobodnih/zauzetih smještajnih jedinica.
  
  
 ## Karakteristike korisnika
