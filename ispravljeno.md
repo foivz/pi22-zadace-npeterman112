@@ -188,17 +188,27 @@ Izvor| "Korisnički zahtjevi" |
 
 ## Skica zaslona za prijavu u sustav
 
+
 ![LOG in](https://user-images.githubusercontent.com/100710176/160623105-8a4b5dd0-3f12-4add-b0fd-57fd1a2351ba.PNG)
+
+
 
 ## Skica za unos smještajnih jedinica u sustav
 
+
 ![Unos](https://user-images.githubusercontent.com/100710176/160624245-3f7257f9-8b8e-4427-b63d-f0f0d77a86aa.PNG)
 
+
+
 ##Skica za popis jedinica smještaja
+
+
 ![popisjs](https://user-images.githubusercontent.com/100710176/160626108-3bdd27a0-4ca3-4590-b4b5-83df801b2390.PNG)
 
 ##
 Skica za unos gosta
+
+
 ![Unos gosta](https://user-images.githubusercontent.com/100710176/160627475-40a0ec13-303a-4388-9efb-57c731ca7385.PNG)
 
 
