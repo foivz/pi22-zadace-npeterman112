@@ -187,7 +187,7 @@ Izvor| "Korisnički zahtjevi" |
 ##5. SKice zaslona
 
 ## Skica zaslona za prijavu u sustav
-/assets/images/LOG in.PNG
+LOG in.PNG
 
 
 ## Zadatak
