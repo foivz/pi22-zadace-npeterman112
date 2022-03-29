@@ -200,13 +200,13 @@ Izvor| "Korisnički zahtjevi" |
 
 
 
-##Skica za popis jedinica smještaja
+## Skica za popis jedinica smještaja
 
 
 ![popisjs](https://user-images.githubusercontent.com/100710176/160626108-3bdd27a0-4ca3-4590-b4b5-83df801b2390.PNG)
 
 
-##Skica za unos gosta
+## Skica za unos gosta
 
 
 ![Unos gosta](https://user-images.githubusercontent.com/100710176/160627475-40a0ec13-303a-4388-9efb-57c731ca7385.PNG)
