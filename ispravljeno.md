@@ -209,7 +209,8 @@ Izvor| "Korisnički zahtjevi" |
 ## Skica za unos gosta
 
 
-![Unos gosta](https://user-images.githubusercontent.com/100710176/160627475-40a0ec13-303a-4388-9efb-57c731ca7385.PNG)
+![ung](https://user-images.githubusercontent.com/100710176/160628274-fbbadc30-cb1d-4782-af4e-4b01ae109a99.PNG)
+
 
 
 ## Zadatak
