@@ -128,7 +128,7 @@ Izvor| "Korisnički zahtjevi" |
 Identifikator|FZ-6|
 -------------|----|
 Zahtjev| Sustav će omogućiti pretraživanje smještajnih jedinica |
-Obrazloženje| Zbog rezerviranja, te kontorle stanja kampa, vlasnicima treba biti omogućeno pretraživanje slobodnih jedinica prema željenom kapacitetu i vremenskom periodu. Uz to je omogućen uvid u zauzete jedinice. |
+Obrazloženje| Zbog rezerviranja, te kontrole stanja kampa, vlasnicima treba biti omogućeno pretraživanje slobodnih jedinica prema željenom kapacitetu i vremenskom periodu. Uz to je omogućen uvid u zauzete jedinice. |
 Način provjere| Nakon unosa testnih podataka vidljivo je koje su jedinice ostale slobodne a koje su zauzete. |
 Prioritet[1-5]| 2 |
 Izvor| "Korisnički zahtjevi" |
