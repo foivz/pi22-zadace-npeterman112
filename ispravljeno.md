@@ -213,6 +213,12 @@ Izvor| "Korisnički zahtjevi" |
 ![PJS](https://user-images.githubusercontent.com/100710176/162805869-7dcffc28-8beb-422f-a021-c95617240939.png)
 
 
+## Skica za pretraživanje jedinica smještaja
+
+
+![PSMJ](https://user-images.githubusercontent.com/100710176/162809907-bd2e26c1-aa17-47db-bb8c-dc8cc6017b18.PNG)
+
+
 
 ## Skica za unos gosta
 
