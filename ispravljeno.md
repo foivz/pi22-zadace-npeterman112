@@ -189,27 +189,53 @@ Izvor| "Korisnički zahtjevi" |
 ## Skica zaslona za prijavu u sustav
 
 
-![LOG in](https://user-images.githubusercontent.com/100710176/160623105-8a4b5dd0-3f12-4add-b0fd-57fd1a2351ba.PNG)
 
+![LOGIN](https://user-images.githubusercontent.com/100710176/162805786-c6eb3ac6-0332-472f-8872-ce929b0c606e.png)
+
+
+## Skica za izbornik
+
+
+![izbornik](https://user-images.githubusercontent.com/100710176/162806002-5faa671d-ead1-4a89-ac49-e77583c90a82.PNG)
 
 
 ## Skica za unos smještajnih jedinica u sustav
 
 
-![Unos](https://user-images.githubusercontent.com/100710176/160624245-3f7257f9-8b8e-4427-b63d-f0f0d77a86aa.PNG)
+
+![USJ](https://user-images.githubusercontent.com/100710176/162805840-877bd302-2e45-48e0-909d-b8afa29f9fa8.png)
 
 
 
 ## Skica za popis jedinica smještaja
 
 
-![popisjs](https://user-images.githubusercontent.com/100710176/160626108-3bdd27a0-4ca3-4590-b4b5-83df801b2390.PNG)
+![PJS](https://user-images.githubusercontent.com/100710176/162805869-7dcffc28-8beb-422f-a021-c95617240939.png)
+
 
 
 ## Skica za unos gosta
 
 
-![ung](https://user-images.githubusercontent.com/100710176/160628274-fbbadc30-cb1d-4782-af4e-4b01ae109a99.PNG)
+
+![UG](https://user-images.githubusercontent.com/100710176/162805896-6d18f89c-fdcc-487f-b461-900248f90e78.PNG)
+
+## Skica za izračun cijene
+
+![izracuncijene](https://user-images.githubusercontent.com/100710176/162805960-df1e6e40-dc7d-49ae-9d9b-3eeae4494e5b.PNG)
+
+
+## Skica za statistiku kampusa
+
+
+![statistika kampusa](https://user-images.githubusercontent.com/100710176/162806113-9ef1ba2b-411a-4d4d-bac0-8e64cf6e8bfe.PNG)
+
+
+## Skica za statistiku smještajne jedinice
+
+
+
+![Statistika smještaja](https://user-images.githubusercontent.com/100710176/162806166-44580819-c303-4c49-8e43-5256bbb0b739.PNG)
 
 
 
