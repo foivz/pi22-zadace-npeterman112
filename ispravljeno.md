@@ -9,7 +9,7 @@ Nikola Peterman | npeterman@foi.hr | 0016137228  | npeterman112
 ## 1. Uvod
 ## Svrha
 
-Svrha ovog dokumenta je specifikacicja softverskih zahtjeva softvera namjenjenog rezervaciji smještajnih jedinica. Te dokument je namjenjen programerima, dizajnerima i testerima za navođenje u izradi i testiranju softvera. Isto tako dokument se koristi i kao ugovor između naručitelja i izvršivaća rada.
+Svrha ovog dokumenta je specifikacicja softverskih zahtjeva softvera namjenjenog rezervaciji smještajnih jedinica. Te dokument je namjenjen programerima, dizajnerima i testerima za navođenje u izradi i testiranju softvera. 
 
 ## Opis domene
 Potrebno je napraviti aplikaciju za rezervaciju smještaja u kampu, podacima zbog privatnosti mogućnost pristupa imaju samo vlasnici a cijena se formira zavisno o sezoni te vrsti smještaja i količini osoba, te ponovni gosti dobivaju 5% popusta. Vlasnicima treba omogućiti izmjenu podataka poput cijene i kapaciteta, te oogućiti im izradu statistika za tijek godine/sezone te uvid u ukupni popis gostiju i trenutnu popunjenost kampa. Sam naziv aplikacije će biti "Kampiranje"
