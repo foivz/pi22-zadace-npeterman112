@@ -184,7 +184,7 @@ Izvor| "Korisnički zahtjevi" |
 - Nema definiranih dodatnih nefunkcionalnih zahtjeva
 
 
-##5. SKice zaslona
+## 5. SKice zaslona
 
 ## Skica zaslona za prijavu u sustav
 
