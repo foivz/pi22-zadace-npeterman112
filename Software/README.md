@@ -3,3 +3,6 @@ Ovo je mapa vašeg programskog koda. U nju smjestite vaše rješenje (solution) 
 Uvijek uzmite u obzir da se ne verzioniraju dokumenti koje IDE kreira prilikom prevođenja ili pokretanja projekta. Također uzmite u obzir da dobro verzioniran programski kod zadovoljava dva uvjeta:
  - Nakon preuzimanja i kompajliranja programskog koda sa repozitorija, razvojno okruženje ne vraća nikakve pogreške
  - Nakon kompajliranja i pokretanja projekta, ako niste radili nikakve promjene na kodu, repozitorij ostaje čist i nije potrebno raditi novu verziju
+
+
+npeterman112/pi22-zadace-npeterman112-Software- (github.com)
