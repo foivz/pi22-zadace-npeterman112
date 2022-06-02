@@ -5,4 +5,6 @@ Uvijek uzmite u obzir da se ne verzioniraju dokumenti koje IDE kreira prilikom p
  - Nakon kompajliranja i pokretanja projekta, ako niste radili nikakve promjene na kodu, repozitorij ostaje čist i nije potrebno raditi novu verziju
 
 
-npeterman112/pi22-zadace-npeterman112-Software- (github.com)
+npeterman112/https-github.com-foivz-pi22-zadace-npeterman112-tree-master-Software-Kampovilasttry 
+user:admin
+password:admin
